@@ -1,0 +1,16 @@
+.place__link-header {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20.4px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+}
+
+@media screen and (max-width: 767px) {
+  .place__link-header {
+    line-height: 1;
+  }
+}
