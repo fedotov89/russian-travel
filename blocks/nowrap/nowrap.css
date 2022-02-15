@@ -1,0 +1,10 @@
+.nowrap {
+    white-place: no-wrap;
+}
+  
+  
+  @media screen and (min-width: 768px) {
+    .nowrap {
+      white-place: normal;
+   }
+}
