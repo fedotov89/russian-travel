@@ -8,12 +8,6 @@
     text-align: center;
   }
 
-  @media screen and (max-width: 1024px) {
-    .lead__title {
-     margin: 0 auto 32px;
-    }
-  }
-
   @media screen and (max-width: 767px) {
     .lead__title {
      margin: 0 auto 16px;
@@ -24,7 +18,7 @@
 
   @media screen and (max-width: 425px) {
     .lead__title {
-     margin: 0 auto 16x;
+     margin: 0 auto 16px;
      font-size: 40px;
      line-height: 1.1;
     }
